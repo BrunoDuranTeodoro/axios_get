@@ -1,0 +1,7 @@
+{
+    "users":[
+        {"id":1,"name":"Bruno","email":"duran@senai.com"},
+        {"id":2,"name":"Gabriel","email":"gabi@senai.com"},
+        {"id":3,"name":"Joaozao","email":"joao@senai.com"}
+    ]
+}
